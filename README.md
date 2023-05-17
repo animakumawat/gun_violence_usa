@@ -12,4 +12,5 @@ Mass shootings are incidents involving multiple victims of firearm-related viole
 #### Visulizing trends within United States mass shootings (1982 - April_2023)
 
 <img width="756" alt="Screenshot 2023-05-17 at 10 43 53" src="https://github.com/animakumawat/gun_violence_usa/assets/101089723/61a73077-5567-4bf2-8098-5f49da7477da">
-<img width="756" alt="Screenshot 2023-05-17 at 10 47 00" src="https://github.com/animakumawat/gun_violence_usa/assets/101089723/21505cd1-6875-4ec7-97da-bb32075ca2df">
+
+<img width="756" alt="Screenshot 2023-05-17 at 10 49 10" src="https://github.com/animakumawat/gun_violence_usa/assets/101089723/c457fa42-d1c9-4e1b-8393-b503672e178b">
